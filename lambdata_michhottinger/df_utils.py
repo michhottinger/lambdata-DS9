@@ -1,6 +1,6 @@
 """
-utility functions for working with DataFrames
+Utility functions for working with DataFrames
 """
 
 import pandas
-TEST_DF = pandas.DataFrame([1,3,4,5,6])
+TEST_DF = pandas.DataFrame([1,2,3,4,5,6])
