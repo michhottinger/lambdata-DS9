@@ -8,17 +8,12 @@ Fork this repo and begin to edit this as you wish. Use `pip install -i https://t
 ### Prerequisites
 
 This package should run smoothly with python3 and Anaconda.
-```
-
-```
 
 ### Understanding
 
-This is a short exmaple of how to construct a class (Game) with a subclass (tic).
+This is a short exmaple of how to construct a class (Game) with a subclass (Tic).
 
 End with an example of getting some data out of the system or using it for a little demo
-
-
 
 
 ## Built With
