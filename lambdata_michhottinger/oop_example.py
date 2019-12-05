@@ -5,7 +5,7 @@ from random import random
 
 class Game:
     def __init__(self, rounds=2, player1="Nicole", player2="Kumar"):
-        self.rounds = 2
+        self.rounds = 3
         self.steps = 5
         self.player1 = player1
         self.player2 = player2
